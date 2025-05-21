@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/receba.unity
     guid: a8e981bf09cb4534fa4401526f21ab19
+  - enabled: 1
+    path: Assets/bslkl.a.unity
+    guid: a42810ec8cf9f144c9dd22bcb50d8c0a
   m_configObjects: {}
